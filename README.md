@@ -10,16 +10,16 @@ Feature Extraction: Improved methods for extracting relevant features from video
 Our comprehensive solution enhances accuracy and reliability in real-world scenarios, advancing video action recognition systems for surveillance, healthcare, and interactive applications.
 
 Key Features:
-Robust noise reduction
-Adaptive recognition algorithms
-Deep learning integration
-Advanced feature extraction
+Robust noise reduction,
+Adaptive recognition algorithms,
+Deep learning integration,
+Advanced feature extraction.
 
 Technologies Used:
-Mediapipe Framework
-Movienet Model
-Advanced filtering techniques
-Deep learning algorithms
+Mediapipe Framework,
+Movienet Model,
+Advanced filtering techniques,
+Deep learning algorithms.
 
 Contribution:
-This project advances video action recognition by providing a solution to noisy environments, ensuring higher accuracy and reliability across various applicatio
+This project advances video action recognition by providing a solution to noisy environments, ensuring higher accuracy and reliability across various application.
